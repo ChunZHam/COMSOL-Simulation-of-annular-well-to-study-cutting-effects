@@ -13,4 +13,6 @@ Cutting effects are clearly visible.
 
 Can be used to study the optimization of annular ratio and intial velocity.
 Factors such as inclination, cuttings and liquids' properties, geometry are modeled.
+
+
 <img width="272" height="303" alt="image" src="https://github.com/user-attachments/assets/d24ccb24-f30f-4327-b000-f37357ec2363" />
